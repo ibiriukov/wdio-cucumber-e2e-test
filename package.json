@@ -25,5 +25,8 @@
     "ts-node": "^10.4.0",
     "typescript": "^4.5.3",
     "wdio-chromedriver-service": "^7.2.2"
+  },
+  "dependencies": {
+    "newman-reporter-htmlextra": "^1.22.3"
   }
 }
